@@ -1,7 +1,1 @@
-Web development with Django# EMS-php
-# DJango
-# Django-Web-Development
-# Employee-management-system
-# Employee-management-system
-# Django-Basics
-# Django-Basics
+This repo aims at introdicing git's MVC architecture
