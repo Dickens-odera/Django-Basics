@@ -1,1 +1,1 @@
-This repo aims at introdicing git's MVC architecture
+This repo aims at introdicing django's MVC architecture
